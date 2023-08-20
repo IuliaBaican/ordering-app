@@ -12,5 +12,6 @@ Here is a working live demo : https://ordering-app-f1480.web.app/
 
 # Technologies
  - React
- - Firebase
+ - Firebase Database
+ - Firebase Hosting
  - React Context
